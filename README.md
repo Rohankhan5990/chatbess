@@ -1,7 +1,6 @@
 # chatbess
 
 # Output
-<img src="://github.com/Rohankhan5990/chatbess/assets/134016581/0af2573b-6fcd-497c-a216-aacc9478364c" width="200" height="400" />
 ![1](https://github.com/Rohankhan5990/chatbess/assets/134016581/0af2573b-6fcd-497c-a216-aacc9478364c)
 ![2](https://github.com/Rohankhan5990/chatbess/assets/134016581/401a618f-b9bb-4113-b13f-18f5caa63ba5)
 ![3](https://github.com/Rohankhan5990/chatbess/assets/134016581/4156c5b9-a768-43d6-b705-a42f00488ad8)
