@@ -4,8 +4,7 @@
 
 <div>
   <img src="https://github.com/Rohankhan5990/chatbess/assets/134016581/e481a6e6-e061-4817-af03-8390079169b6" alt="Image 1" width="400" />
- | ![Image 1](image1.jpg) | ![Image 2](image2.jpg) |
-|:----------------------:|:----------------------:|
+  <img src="https://github.com/Rohankhan5990/chatbess/assets/134016581/401a618f-b9bb-4113-b13f-18f5caa63ba5" alt="Image 1" width="400" />
 </div>
 ![1](https://github.com/Rohankhan5990/chatbess/assets/134016581/e481a6e6-e061-4817-af03-8390079169b6|width="500"height="300")
 ![2](https://github.com/Rohankhan5990/chatbess/assets/134016581/401a618f-b9bb-4113-b13f-18f5caa63ba5)
