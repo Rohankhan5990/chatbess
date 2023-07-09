@@ -1,9 +1,9 @@
 # chatbess
 
 # Output
-![resize-168886273316526162531](https://github.com/Rohankhan5990/chatbess/assets/134016581/2597311a-8413-4474-984b-4c131e124bc4)
-![1](https://github.com/Rohankhan5990/chatbess/assets/134016581/e481a6e6-e061-4817-af03-8390079169b6|width="500"height="300")
-![2](https://github.com/Rohankhan5990/chatbess/assets/134016581/401a618f-b9bb-4113-b13f-18f5caa63ba5)
+
+![1](https://github.com/Rohankhan5990/chatbess/assets/134016581/e481a6e6-e061-4817-af03-8390079169b6|width="500"height="300") ![2](https://github.com/Rohankhan5990/chatbess/assets/134016581/401a618f-b9bb-4113-b13f-18f5caa63ba5)
+
 ![3](https://github.com/Rohankhan5990/chatbess/assets/134016581/4156c5b9-a768-43d6-b705-a42f00488ad8)
 ![4](https://github.com/Rohankhan5990/chatbess/assets/134016581/0191f933-1b2b-4ae8-b453-2c8562226f4e)
 ![5](https://github.com/Rohankhan5990/chatbess/assets/134016581/349ded97-57ba-4076-aef2-fda7dee9368d)
