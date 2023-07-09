@@ -2,6 +2,10 @@
 
 # Output
 
+<div>
+  <img src="image1.jpg" alt="Image 1" width="400" />
+  <img src="image2.jpg" alt="Image 2" width="400" />
+</div>
 ![1](https://github.com/Rohankhan5990/chatbess/assets/134016581/e481a6e6-e061-4817-af03-8390079169b6|width="500"height="300") ![2](https://github.com/Rohankhan5990/chatbess/assets/134016581/401a618f-b9bb-4113-b13f-18f5caa63ba5)
 
 ![3](https://github.com/Rohankhan5990/chatbess/assets/134016581/4156c5b9-a768-43d6-b705-a42f00488ad8)
