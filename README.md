@@ -1,4 +1,14 @@
 # chatbess
+#	Introduction:
+
+As it is the tech era, Everyone needs to remain connected with each other for the sake of communication and also for work experience. As many other messaging apps also exist for this purpose. We also made a user-friendly interface messaging app named “Chat Bees”. With the ever-increasing need for instant communication, Chat Bees offers a convenient and efficient platform for staying in touch with friends, family, and acquaintances.
+
+In this digital era, communication plays a vital role in our daily lives. Recognizing the importance of communication, we have created Chat Bees to provide a hassle-free and enjoyable chatting experience. Whether you want to send quick messages, engage in a voice or video call, or update your status to let others know about you, Chat Bees is here to achieve your desired goals.
+
+Our app boasts a user-friendly interface. The simple and interactive design ensures that you can easily navigate through various sections and access all the features with just a few taps. One of the features of Chat Bees is the ability to personalize your experience. While customizing your profile settings, you have the options available to tailor the app to suit your preferences. We understand that everyone has unique communication needs, and Chat Bees allows you to make the app truly your own.
+
+With Chat Bees, you can capture and share special moments instantly using the in-chat camera feature. You can easily share it with your fellows and with the visual aspect of conversations, make your chats more engaging.
+
 
 # Output
 
