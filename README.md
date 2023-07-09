@@ -10,7 +10,7 @@ Our app boasts a user-friendly interface. The simple and interactive design ensu
 With Chat Bees, you can capture and share special moments instantly using the in-chat camera feature. You can easily share it with your fellows and with the visual aspect of conversations, make your chats more engaging.
 
 
-# Output
+# Output:
 
 <div>
   <img src="https://github.com/Rohankhan5990/chatbess/assets/134016581/e481a6e6-e061-4817-af03-8390079169b6" alt="Image 1" width="400" />
